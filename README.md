@@ -10,7 +10,7 @@ This is a simple calculator app built with Jetpack Compose for Android. It allow
 **How it Works**: The app uses Jetpack Compose for building the UI and logic. It consists of a text field for user input, buttons for numbers and operators, and a text view to display the result. When a button is pressed, the app updates the input field and evaluates the expression upon pressing the equal button. Basic input validation is included to prevent crashes due to invalid expressions.
 
 **Usage**
-1. Clone the repository using this command in your cmd. \n
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+1. Clone the repository using this command in your cmd. 
+   > git clone https://github.com/<your-username>/<your-repo-name>.git
 2. Open the project in Android Studio.
 3. Run the app on your device or emulator.   
