@@ -7,5 +7,4 @@ This is a simple calculator app built with Jetpack Compose for Android. It allow
 3. Displays the calculation result
 4. Handles basic input validation
 
-**How it Works**
-The app uses Jetpack Compose for building the UI and logic. It consists of a text field for user input, buttons for numbers and operators, and a text view to display the result. When a button is pressed, the app updates the input field and evaluates the expression upon pressing the equal button. Basic input validation is included to prevent crashes due to invalid expressions.
+**How it Works**: The app uses Jetpack Compose for building the UI and logic. It consists of a text field for user input, buttons for numbers and operators, and a text view to display the result. When a button is pressed, the app updates the input field and evaluates the expression upon pressing the equal button. Basic input validation is included to prevent crashes due to invalid expressions.
