@@ -11,6 +11,6 @@ This is a simple calculator app built with Jetpack Compose for Android. It allow
 
 **Usage**
 1. Clone the repository using this command in your cmd. 
-   > git clone https://github.com/<your-username>/<your-repo-name>.git
+   > git clone https://github.com/Mahaveer86619/Calculator-JetpackCompose.git
 2. Open the project in Android Studio.
 3. Run the app on your device or emulator.   
